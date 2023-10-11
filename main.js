@@ -1,0 +1,11 @@
+function Title() {
+    document.getElementById("display").innerHTML = "Target For Love <br> Jin - Ah Lee";
+}
+
+function Song_Lyrics() {
+    document.getElementById("display").innerHTML = "Can you hear it? The song of bell Heals me like when I see the shining stars <br> Can you feel it? Just take a breath On this stage our breath will be the breeze <br> On and on, rings in my ears I can’t stop thinking about you anymore <br> So special, brand new day by day My days are just for you <br> <br> Target Everyday Everywhere <br> Your voice Coming to me Rushing to me <br> Fill me up with your wish and Make Me Smile <br> Highway Can’t you see it? <br> We only shine in the story of us So marvelous <br> Take me to paradise and Make Me Smile <br> Ring of light every night Will you be my lullaby? <br> Get, set, Target on When I look behind <br> You are Always with me <br> Yes, you are <br> <br> Can you find it? The missing light <br> You are the only one who saves the night <br> What if everyday, Always overlayed, Shaded gray? <br> What if all the stars Faded with the day? <br> </br>They will shine on brighter Day by day <br> <br> When I think I’m alone <br> I still feel like you’re always behind me <br> Finally, it’s about time There is something to tell you <br> Will You hear me out? <br> <br> Looking for a long time but today here we are <br> Are you ready? Because I, I will give it all for you <br> <br> Target Everyday Everywhere <br> Your voice Coming to me Rushing to me <br> Fill me up with your wish and Make Me Smile <br> Highway Can’t you see it? <br> We only shine in the story of us So marvelous <br> Take me to paradise and Make Me Smile <br> <br> Ring of light every night Will you be my lullaby? <br> Get, set, Target on When I look behind <br> You are Always with me <br> Yes, you are";
+}
+
+function Chorus() {
+    document.getElementById("display").innerHTML = "Target Everyday Everywhere <br> Your voice Coming to me Rushing to me <br> Fill me up with your wish and Make Me Smile <br> Highway Can’t you see it? <br> We only shine in the story of us So marvelous <br> Take me to paradise and Make Me Smile";
+}

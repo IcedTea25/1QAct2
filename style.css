@@ -1,0 +1,36 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: red;
+}
+
+/* MAIN */
+
+header {
+    padding: 20px;
+}
+
+h1 {
+    font-size: 35px;
+    font-family: 'Pixelify Sans', cursive;
+    text-align: center;
+}
+
+hr {
+    margin: auto;
+}
+
+h2 {
+    font-size: 25px;
+    font-family: 'Pixelify Sans', cursive;
+    text-align: center;
+}
+
+button {
+    font-weight: bold;
+    font-family: 'Gabarito';
+    width: 33%;
+}
